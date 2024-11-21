@@ -9,12 +9,12 @@ pipeline {
     stages {
         stage('Install Dependency') {
             steps {
-                sh 'yarn'
+                sh 'npm install'
             }
         }
         stage('Test Lint') {
             steps {
-                sh 'yarn lint'
+                sh 'npm run lint'
             }
         }
         stage('Build Image') {
