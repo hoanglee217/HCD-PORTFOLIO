@@ -3,24 +3,10 @@ const background = [
         eduCards: [
             {
                 id: 0,
-                title: 'UET Peshawar',
-                degree: 'BS, Computer System Engineering',
-                detail: "Bachelor's Degree in Computer System Engineering from UET Peshawar.",
-                year: '2018-2022'
-            },
-            {
-                id: 1,
-                title: 'Peshawar Model Degree College',
-                degree: 'HSSC, Pre Engineering',
-                detail: "Completed FSC part 1 and part 2 in Pre-Engineering from Peshawar Model Degree College.",
-                year: '2015-2017'
-            },
-            {
-                id: 2,
-                title: 'Falcon Academy',
-                degree: 'SSC, Science Subjects',
-                detail: "Completed SSC part 1 and part 2 in Science subjects from Falcon Academy Seni Gumbat Kohat",
-                year: '2013-2015'
+                title: 'FPT Polytechnic',
+                degree: 'Web Developer',
+                detail: "Bachelor's Degree in Web Developer from FPT Polytechnic.",
+                year: '2018-2021'
             },
         ]
     },
@@ -28,32 +14,22 @@ const background = [
         expCards: [
             {
                 id: 1,
-                title: 'JMM Technologies',
-                role: 'Frontend Developer',
-                url: 'https://jmm.ltd/',
-                desc: 'As a frontend developer, I use React, Next & JavaScript to build user interfaces for web applications.',
-                year: '02/2023 - Present',
-                location: 'Peshawar, Pakistan'
+                title: 'DoBranch',
+                role: 'Software Developer',
+                url: 'no website',
+                desc: 'As a software developer, I use wordpress to build websites.',
+                year: '10/2020 - 06/2021',
+                location: 'Da Nang, Viet Nam'
             },
             {
                 id: 2,
-                title: 'HauzaTech',
-                role: 'Internee',
-                url: 'no website',
-                desc: 'As an Internee, I learned how to use React & JavaScript to build interactive websites.',
-                year: '02/2023 - Present',
+                title: 'CTNet Digital',
+                role: 'Software Developer',
+                url: 'https://ctnet.vn',
+                desc: 'As a software developer, I use wordpress to build websites. After that i use .Net core API and ReactJS to build a Web Application',
+                year: '07/2021 - 10/2024',
                 location: 'Peshawar, Pakistan'
             },
-            {
-                id: 3,
-                title: 'Encoder Bytes',
-                role: 'PHP Developer',
-                url: 'https://www.encoderbytes.com/',
-                desc: "I work there as a PHP developer, there I learned how to do CRUD'S operations in PHP, also I worked on Firebase",
-                year: '09/2020 - 02/2021',
-                location: 'Peshawar, Pakistan'
-            },
-
         ]
     }
 ]

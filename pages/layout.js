@@ -1,5 +1,6 @@
 import Intro from '../components/Common/Intro';
 import Nav from '../components/Common/Nav/Nav';
+import Footer from '../components/Footer';
 import { FaBars, FaMousePointer } from 'react-icons/fa';
 import { SlOptionsVertical } from 'react-icons/sl';
 import { useState } from 'react';
@@ -31,7 +32,7 @@ export default function Layout({ children }) {
       <div className='flex relative h-full justify-between gap-x-3'>
         {/* left most side */}
         <div
-          className={`w-64 h-screen left-0 lg:rounded-xl -top-10 lg:top-0 lg:left-0 lg:h-full overflow-hidden bg-DeepNightBlack shadow-2xl z-50 lg:flex flex-col  lg:relative ${
+          className={`w-64 h-screen left-0 lg:rounded-xl -top-10 lg:top-0 lg:left-0 lg:h-full overflow-hidden bg-DeepNightBlack shadow-2xl z-50 lg:flex flex-col lg:relative ${
             intro ? 'flex absolute' : 'hidden'
           }`}>
           <Intro isOpen={intro} setIsOpen={setIntro} />
@@ -40,7 +41,10 @@ export default function Layout({ children }) {
         {intro && <div onClick={(e) => setIntro(false)} className='fixed top-0 left-0  w-full h-full bg-black/50 backdrop-blur-[2px] z-40'></div>}
 
         {/* middle of screen */}
-        <div className='w-full h-auto lg:w-9/12 shadow-2xl bg-DeepNightBlack relative overflow-auto overflow-x-hidden no-scrollbar'>{children}</div>
+        <div className='relative w-full h-auto mb-10 pb-7 lg:w-9/12 shadow-2xl bg-DeepNightBlack relative overflow-x-hidden overflow-y-scroll'>
+        {children}
+        <Footer/>
+        </div>
 
         {/* right side */}
         {/* right side */}

@@ -1,18 +1,18 @@
 const expertise = [
     {
         id: 0,
-        title: 'Full Stack Development',
-        desc: 'I am a skilled MERN stack developer with extensive experience in building robust web applications using MongoDB, Express.js, React.js, and Node.js. I possess a strong understanding of server-side rendering, API integration, and database management. With my expertise, I can deliver dynamic and efficient web solutions tailored to meet the unique requirements of clients.',
+        title: '.Net core Development',
+        desc: 'I use .NET Core because .NET Core is an open source, cross-platform software development framework developed by Microsoft. It allows developers to build high-performance web applications, APIs, and microservices that are easily deployed on multiple operating systems, such as Windows, Linux, and macOS. .NET Core stands out for its flexibility, scalability, and superior performance, making it an ideal choice for modern, performance-intensive applications.',
     },
     {
         id: 1,
-        title: 'Scrum and Jira',
-        desc: "As a developer, I'm proficient in Jira and Scrum methodologies. I use Jira to simplify project management tasks like task assignment, prioritization, and progress tracking. Scrum has improved my teamwork, utilizing daily stand-ups, sprint planning, and retrospectives. My expertise ensures high-quality software products are delivered promptly.",
+        title: 'ReactJS Development',
+        desc: "I use ReactJS because ReactJS allows developers to create dynamic and interactive web applications by dividing the interface into reusable components. With the “Virtual DOM” mechanism, ReactJS helps optimize performance by updating only the necessary changes instead of refreshing the entire interface. This results in a smooth and fast user experience.",
     },
     {
         id: 2,
-        title: 'Designing (UI/UX)',
-        desc: 'I am proficient in using design software such as Figma, Adobe XD, and Adobe Illustrator. Through participating in hackathons and freelance work, I have gained practical experience in UI/UX design and graphic design. Designing is my passion, and it has allowed me to continue to develop my creative skills and grow in the field.',
+        title: 'Jira',
+        desc: "As a developer, I'm proficient in Jira methodologies. I use Jira to simplify project management tasks like task assignment, prioritization, and progress tracking. My expertise ensures high-quality software products are delivered promptly.",
     },
     {
         id: 3,

@@ -1,67 +1,59 @@
-export const NAME = 'Muhammad Osama Javaid';
+export const NAME = 'Le Hoang';
 
-export const DESIGNATION = `MERN Stack Developer | Open Source Contributor | Tech Blogger`;
+export const DESIGNATION = `Software Developer`;
 
 export const DETAILS = {
-  Residence: 'Pakistan',
-  City: 'Peshawar',
-  Age: '23',
+  Residence: 'Viet Nam',
+  City: 'Da Nang',
+  Age: '24',
 };
 
 export const SKILLS = [
   {
-    title: 'MERN Stack Developer',
+    title: '.Net Core Developer',
+    level: '40%',
+  },
+  {
+    title: 'ReactJS Developer',
+    level: '35%',
+  },
+  {
+    title: 'Backend Developer',
+    level: '50%',
+  },
+  {
+    title: 'HTML, CSS',
     level: '75%',
   },
   {
-    title: 'React Developer',
-    level: '91%',
-  },
-  // {
-  //   title: 'Desktop Application Developer',
-  //   level: '75%',
-  // },
-  {
-    title: 'Backend Developer',
-    level: '54%',
-  },
-  {
-    title: 'Technical Blogger',
-    level: '83%',
+    title: 'MySql',
+    level: '50%',
   },
 ];
 
 export const TECH_STACK = [
   'JavaScript',
+  '.Net Core',
   'ReactJS',
-  'NextJS',
   'TypeScript',
-  'NodeJS',
-  'Redux',
-  'Zustand',
   'CSS',
-  'SCSS',
-  'TailwindCSS',
   'Ant Design',
-  'Material UI',
-  'Next UI',
   'REST API',
-  'MongoDB',
   'MySQL',
   'Git',
   'GitHub',
   'Jira',
-  'Figma',
-  'Adobe XD',
+  'Laravel',
+  'Adobe Photoshop',
 ];
 
 export const CONTACTS = {
-  EMAIL: 'iosamajavaid@gmail.com',
-  PHONE: '+923159591822',
+  EMAIL: 'hoangxam@gmail.com',
+  PHONE: '+84901968477',
 };
 export const SOCIAL_LINKS = {
-  GITHUB: 'https://github.com/osamajavaid',
-  LINKEDIN: 'https://www.linkedin.com/in/iosamajavaid/',
-  TWITTER: 'https://twitter.com/iosamajavaid',
-  FACEBOOK: 'https://www.facebook.com/iosamajavaid',
+  GITHUB: 'https://github.com/hoanglee217',
+  LINKEDIN: '',
+  FACEBOOK: 'https://www.facebook.com/hoanglee217/',
 };
+  
