@@ -20,8 +20,8 @@ const ClientReviews = () => {
 
                 {
                     isLoading ?
-                        [1, 2, 3, 4, 5].map(() => (
-                            <ParagraphSkeleton className="w-80 md:w-96 h-full p-4 md:p-8" />
+                        [1, 2, 3, 4, 5].map((index) => (
+                            <ParagraphSkeleton key={index} className="w-80 md:w-96 h-full p-4 md:p-8" />
                         ))
                         :
                         data?.map((data, key) => (
