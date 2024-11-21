@@ -4,10 +4,12 @@ WORKDIR /app
 
 COPY package.json /app
 
-RUN yarn
+RUN npm install
 
 COPY . /app
 
+RUN npm run lint
+
 EXPOSE 3000
 
-CMD [ "yarn", 'start' ]
+CMD [ "npm", "run", "start" ]
