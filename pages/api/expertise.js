@@ -24,6 +24,11 @@ const expertise = [
         title: 'Open Source Contributor',
         desc: "Open Source is the future. I usually take some time on weekend and contribute into opensource project. It gives me opportunity to learn from best developer's practices and also gives me a chance to help others and contribute into the community for the good.",
     },
+    {
+        id: 5,
+        title: 'MySQL ',
+        desc: "MySQL is an excellent choice for developers and businesses due to its cost-effectiveness, scalability, ease of use, and powerful features. Whether you’re building a small blog or a complex enterprise system, MySQL provides the tools to efficiently store, manage, and retrieve your data.",
+    },
 ]
 
 export default function handler(req, res) {

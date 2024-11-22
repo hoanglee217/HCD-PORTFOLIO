@@ -27,7 +27,7 @@ export const SKILLS = [
   },
   {
     title: 'MySql',
-    level: '50%',
+    level: '45%',
   },
 ];
 
