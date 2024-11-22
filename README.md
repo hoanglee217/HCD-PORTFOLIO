@@ -17,35 +17,32 @@ Special thanks for providing such a great starting point for showcasing my work.
 ## 🛠️ Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript, React.js
-- **Backend**: Node.js, ASP.NET
 - **Database**: MySQL
 - **Tools**: Docker, Git, NGINX, Jenkins
 
 ## 🚀 Deployment
 
-The portfolio is deployed and accessible online at: [Portfolio Website](https://portfolio.hoangcodedao.io.vn)
+The portfolio is deployed and accessible online at: [Portfolio Website](https://hoangcodedao.io.vn)
 
 ## 📦 Installation and Setup
 
 1. Clone the repository:
-   ```bash
+  ```bash
    git clone https://github.com/hoanglee217/HCD-PORTFOLIO.git
    cd HCD-PORTFOLIO
+   ```
 2.	Install dependencies:
   ```bash
   npm install
+  ```
 3.	Start the development server:
   ```bash
   npm run start
+  ```
 4.	Open your browser and navigate to:
   ```bash
   http://localhost:3000
-
-🖼️ Screenshots
-
-Home Page
-
-Projects Page
+  ```
 
 👤 About Me
 
@@ -57,7 +54,7 @@ Feel free to contribute to this project! Submit an issue or a pull request to su
 
 📬 Contact
 
-	•	Website: portfolio.hoangcodedao.io.vn
+	•	Website: hoangcodedao.io.vn
 	•	Email: hoangxam2@gmail.com
 	•	GitHub: hoanglee217
 
