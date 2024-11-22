@@ -1,55 +1,73 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/osamajavaid/portfolio)
-  ![GitHub stars](https://img.shields.io/github/stars/osamajavaid/portfolio?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/osamajavaid/portfolio?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/iosamajavaid?style=social)](https://twitter.com/intent/follow?screen_name=iosamajavaid)
+# HoangCodeDao's Portfolio
 
-  <br />
-  <br />
-  
-  <img src="./public/readme-images/moj.png" />
+Welcome to my portfolio repository! This project showcases my personal and professional work, highlighting my skills in web development, programming, and design.
 
-  <h2 align="center">Muhammad Osama Javaid - Personal portfolio</h2>
+## 🙏 Acknowledgements
 
-This website is fully responsive personal portfolio, <br />Responsive for all devices, built using Nextjs, TailwindCSS only.
+This portfolio is built using a template designed by Osamajavaid (https://img.shields.io/github/repo-size/osamajavaid/portfolio).  
+Special thanks for providing such a great starting point for showcasing my work.
 
-<a href="https://osamajavaid.vercel.app/"><strong>➥ Live Demo</strong></a>
+## 🌟 Features
 
-</div>
+- **Responsive Design**: Optimized for all devices, from desktops to smartphones.
+- **Projects Showcase**: A detailed view of my completed projects and contributions.
+- **Contact Section**: An easy way to connect with me for collaborations or inquiries.
+- **Interactive Experience**: Smooth navigation and visually appealing animations.
 
-<br />
+## 🛠️ Technologies Used
 
-### Demo Screeshots
+- **Frontend**: HTML, CSS, JavaScript, React.js
+- **Backend**: Node.js, ASP.NET
+- **Database**: MySQL
+- **Tools**: Docker, Git, NGINX, Jenkins
 
-![Osama Portfolio Desktop Demo](./public/readme-images/portfolio.png "Desktop Demo")
+## 🚀 Deployment
 
-### Prerequisites
+The portfolio is deployed and accessible online at: [Portfolio Website](https://portfolio.hoangcodedao.io.vn)
 
-Before you begin, ensure you have met the following requirements:
+## 📦 Installation and Setup
 
-- [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/hoanglee217/HCD-PORTFOLIO.git
+   cd HCD-PORTFOLIO
+2.	Install dependencies:
+  ```bash
+  npm install
+3.	Start the development server:
+  ```bash
+  npm run start
+4.	Open your browser and navigate to:
+  ```bash
+  http://localhost:3000
 
-### Run Locally
+🖼️ Screenshots
 
-To run **portfolio** locally, run this command on your git bash:
+Home Page
 
-Linux and macOS:
+Projects Page
 
-```bash
-sudo git clone https://github.com/osamajavaid/portfolio.git
-```
+👤 About Me
 
-Windows:
+I’m HoangCodeDao, a web developer passionate about creating stunning and efficient web applications. I enjoy drinking coffee, listening to music, and watching movies online. My goal is to contribute to the community by sharing the knowledge I’ve gained.
 
-```bash
-git clone https://github.com/osamajavaid/portfolio.git
-```
+🤝 Contributions
 
-### Contact
+Feel free to contribute to this project! Submit an issue or a pull request to suggest improvements or report bugs.
 
-If you want to contact with me you can reach me at [X](https://www.x.com/iosamajavaid).
+📬 Contact
 
-### License
+	•	Website: portfolio.hoangcodedao.io.vn
+	•	Email: hoangxam2@gmail.com
+	•	GitHub: hoanglee217
 
-This project is **free to use** and does not contains any license.
+📝 License
+
+This project is licensed under the MIT License.
+The original template is licensed by Osamajavaid under the same license.
+
+### Additional Notes:
+1. If the template requires specific attribution terms (e.g., a specific link or text), make sure to follow them exactly.
+2. If the template author has a GitHub repository, you can link directly to it.
+
+Let me know if you'd like help formatting this further!
