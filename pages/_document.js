@@ -6,6 +6,7 @@ export default function Document() {
       <Head>
         <title>Portfolio — HoangCodeDao</title>
         <meta name="title" content="Portfolio — HoangCodeDao" />
+        <link rel="icon" type="image/x-icon" href="/images/hoangcodedao-logo.png"/>
         <meta
           name="description"
           content="Programming and web development are my passions. I like to watch movies online, listen to music, and drink coffee. My goal is to make a contribution and impart my acquired knowledge to the community. Thank you for visiting my website. I hope you have a nice day!"

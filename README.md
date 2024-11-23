@@ -1,3 +1,5 @@
+![My Image](images/hoangcodedao-logo-long-white.png "This is my logo")
+
 # HoangCodeDao's Portfolio
 
 Welcome to my portfolio repository! This project showcases my personal and professional work, highlighting my skills in web development, programming, and design.
