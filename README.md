@@ -1,4 +1,4 @@
-![My Image](images/hoangcodedao-logo-long-white.png "This is my logo")
+![My Image](public/images/hoangcodedao-logo-long-white.png "This is my logo")
 
 # HoangCodeDao's Portfolio
 
@@ -13,7 +13,7 @@ Special thanks for providing such a great starting point for showcasing my work.
 
 - **Responsive Design**: Optimized for all devices, from desktops to smartphones.
 - **Projects Showcase**: A detailed view of my completed projects and contributions.
-- **Contact Section**: An easy way to connect with me for collaborations or inquiries.
+- **Contact Section**: An easy way to congit nect with me for collaborations or inquiries.
 - **Interactive Experience**: Smooth navigation and visually appealing animations.
 
 ## 🛠️ Technologies Used
