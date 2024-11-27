@@ -1,4 +1,4 @@
-![My Image](images/hoangcodedao-logo-long-white.png "This is my logo")
+![My Image](public/images/hoangcodedao-logo-long-white.png "This is my logo")
 
 # HoangCodeDao's Portfolio
 
