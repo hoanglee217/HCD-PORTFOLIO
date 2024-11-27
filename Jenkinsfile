@@ -50,7 +50,7 @@ pipeline {
             steps {
                 script {
                     echo "Deploying application."
-                    sh "docker run -d -p 3000:3000 ${IMAGE_NAME}:${IMAGE_TAG} "
+                    sh "docker run --restart always -d -p 3000:3000 ${IMAGE_NAME}:${IMAGE_TAG} "
                 }
             }
         }
